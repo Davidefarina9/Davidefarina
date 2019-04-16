@@ -41,7 +41,7 @@ body {
 
 
 nav {
-      padding: 8px;
+      padding: 8+px;
 }
 
 .logo {
@@ -85,7 +85,7 @@ nav ul li a {
       text-decoration: none;
       font-size: 22px;
       letter-spacing: 1.2px;
-      font-weight: 600;
+      font-weight: 400;
       
 }
 a:hover {color: #99ddff;}

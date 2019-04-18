@@ -225,14 +225,12 @@ a:hover {color: #99ddff;}
 }
 
 .section 
-  {position: absolute;
-   top: 250px; 
-   left: 70%;
-   width: 900px;
-   margin-left: -300px; 
-   color: white; 
-   font-size: 25px;
-   }
+{
+    margin-left: 50%;
+    margin-top: 15%;
+     color: white; 
+     font-size: 25px;
+     }
 
    *{
       margin:0;

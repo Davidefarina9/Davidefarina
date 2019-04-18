@@ -41,7 +41,7 @@ body {
 
 
 nav {
-      padding: 8+px;
+      padding: 8px;
 }
 
 .logo {
@@ -85,7 +85,7 @@ nav ul li a {
       text-decoration: none;
       font-size: 22px;
       letter-spacing: 1.2px;
-      font-weight: 400;
+      font-weight: 600;
       
 }
 a:hover {color: #99ddff;}
@@ -225,11 +225,9 @@ a:hover {color: #99ddff;}
 }
 
 .section 
-  {position: absolute;
-   top: 250px; 
-   left: 70%;
-   width: 900px;
-   margin-left: -300px; 
+  {
+  margin-left: 50%;
+  margin-top: 15%;
    color: white; 
    font-size: 25px;
    }
